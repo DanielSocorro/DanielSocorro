@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Socorro</h1>
 <h3 align="center">A passionate frontend developer from Venezuela living in Chile</h3>
 
-- 🔭 I’m currently working on **Several Personal Projects**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Anyone**
+- 👯 I’m looking to collaborate on **Front-end Development**
 
 - 👨‍💻 All of my projects are available at [https://danielsocorro-portfolio.netlify.app/](https://danielsocorro-portfolio.netlify.app/)
 
