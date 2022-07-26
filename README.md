@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://danielsocorro-portfolio.netlify.app/](https://danielsocorro-portfolio.netlify.app/)
 
-- 💬 Ask me about **Responsive Design and Accesibility**
-
 - 📫 How to reach me **daniel.socorro.c@gmail.com**
 
 - ⚡ Fun fact **I love Star Wars, Manchester United, Tech and Science.**
