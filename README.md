@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **daniel.socorro.c@gmail.com**
 
-- ⚡ Fun fact **I love Star Wars, Manchester United, Tech and Science.**
+- ⚡ Fun fact: **I love Star Wars, Manchester United, Tech and Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
