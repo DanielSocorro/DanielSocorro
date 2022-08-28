@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **Angular**
 
 - 👯 I’m looking to collaborate on **Front-end Development**
 
