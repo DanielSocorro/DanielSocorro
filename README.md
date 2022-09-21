@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/52SFDSG/code.jpg" alt="code" height="200" width="1000"></a>
+<img src="https://i.ibb.co/FVbDw1n/code.jpg" alt="code" height="200" width="1000"></a>
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <h3 align="center">A passionate frontend developer from Venezuela living in Chile</h3>
 
