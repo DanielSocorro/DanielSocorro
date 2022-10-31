@@ -1,12 +1,18 @@
 <img src="https://i.ibb.co/FVbDw1n/code.jpg" alt="code" height="200" width="1000"></a>
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <br>
-🔭 I’m currently working on ### Freelancing. ### (Open To Work)<br><br>
-👯 I’m looking to collaborate on ### Front-end and Web Development. ### <br><br> 
-🌱 I’m currently learning ### React & Angular. ### <br><br> 
-👨‍💻 All of my projects are available at https://danielsocorro-portfolio.netlify.app/ <br><br> 
-⚡ Fun fact: ### I love Star Wars, Video-Games, Manchester United, Tech and Science. ###**<br><br> 
-📫 How to reach me: ### daniel.socorro.c@gmail.com ###
+<br><br>
+🔭 I’m currently working on:  Freelancing (Open To Work).
+<br><br>
+👯 I’m looking to collaborate on:  Front-end and Web Development. 
+<br><br> 
+🌱 I’m currently learning: React & Angular.
+<br><br> 
+👨‍💻 All of my projects are available at:  https://danielsocorro-portfolio.netlify.app/ 
+<br><br> 
+⚡ Fun fact:  I love Star Wars, Video-Games, Manchester United, Tech and Science. 
+<br><br> 
+📫 How to reach me:  daniel.socorro.c@gmail.com
 
 
 ## 🌐 Socials:
