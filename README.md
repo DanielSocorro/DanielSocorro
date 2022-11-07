@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielSocorro&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danielSocorro&theme=dracula&no-frame=false&no-bg=true&margin-w=3)
+![](https://github-profile-trophy.vercel.app/?username=danielSocorro&theme=dracula&no-frame=false&no-bg=true&margin-w=5)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
