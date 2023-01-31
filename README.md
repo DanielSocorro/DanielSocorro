@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/YLZct97/baner-linkedin.png" alt="beard-bear" height="200" width="1000"></a> 
+<img src="https://i.ibb.co/YLZct97/baner-linkedin.png" alt="daniel-socorro" height="200" width="1000"></a> 
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <br>
 <br><br>
