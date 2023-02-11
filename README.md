@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/3yCbydJ/baner-github.png" alt="daniel-socorro" height="200" width="1000"></a> 
+<img src="https://i.ibb.co/pjRvv7J/baner-github.png" alt="daniel-socorro" height="200" width="1000"></a> 
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <br>
 <br><br>
