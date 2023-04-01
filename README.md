@@ -8,7 +8,7 @@
 <br><br> 
 🌱 I’m currently learning: React & Angular.
 <br><br> 
-👨‍💻 All of my projects are available at:  https://danielsocorro-portfolio.netlify.app/ 
+👨‍💻 All of my projects are available at:  https://danielsocorro.dev 
 <br><br> 
 ⚡ Fun fact:  I love Star Wars, Video-Games, Manchester United, Tech and Science. 
 <br><br> 
