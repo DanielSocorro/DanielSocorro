@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <br>
 <br><br>
-🔭 I’m currently working on:  Freelancing (Open To Work).
+🔭 I’m currently working on:  Freelancing.
 <br><br>
 👯 I’m looking to collaborate on:  Front-end and Web Development. 
 <br><br> 
