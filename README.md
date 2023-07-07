@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋 I'm Daniel Socorro</h1>
 <br>
 <br><br>
-🔭 I’m currently working on:  Freelancing.
+🔭 I’m currently working on  Freelancing.
 <br><br>
 👯 I’m looking to collaborate on:  Front-end and Web Development. 
 <br><br> 
@@ -10,7 +10,7 @@
 <br><br> 
 👨‍💻 All of my projects are available at:  https://danielsocorro.dev 
 <br><br> 
-⚡ Fun fact:  I love Star Wars, Video-Games, Manchester United, Tech and Science. 
+⚡ Fun fact:  I love Star Wars, Video Games, Manchester United, Tech, and Science. 
 <br><br> 
 📫 How to reach me:  daniel.socorro.c@gmail.com
 
